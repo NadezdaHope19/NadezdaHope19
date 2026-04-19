@@ -57,3 +57,8 @@ title="Figma" width="40" height="40"/>&nbsp;
 title="Jira" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
 title="LaTeX" width="40" height="40"/>&nbsp;
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadezdaHope19&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadezdaHope19&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadezdaHope19&theme=default)
