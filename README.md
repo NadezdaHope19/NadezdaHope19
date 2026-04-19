@@ -1,6 +1,10 @@
-<h1 align="center">Hi there, I'm Nadezhda</a> 
+<h1 align="center">Hi there, I'm Nadezhda 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Data Analyst from Russia</h3>
+
+<div id="socials" align="center">
+<a href="linkedin-url">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badgelogo=linkedinlogoColor=white"
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
