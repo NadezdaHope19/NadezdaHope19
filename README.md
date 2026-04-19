@@ -4,7 +4,12 @@
 
 <div id="socials" align="center">
 <a href="linkedin-url">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badgelogo=linkedinlogoColor=white"
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="telegram-url">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+</a>  
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
