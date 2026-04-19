@@ -37,17 +37,15 @@ title="Pandas" width="40" height="40"/>&nbsp;
 title="Numpy" width="40" height="40"/>&nbsp;
                                        
 ### Data Analysis & Visualization:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+<img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"
 title="Tableau" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1280px-New_Power_BI_Logo.svg.png"
 title="PowerBI" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg"
-title="Yandex DataLens" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+<img src="https://images.icon-icons.com/2107/PNG/96/file_type_plantuml_icon_130258.png" 
 title="PluntUML" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+<img src="https://store-images.s-microsoft.com/image/apps.16970.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.807ee9a5-23e5-4fec-846e-4073ccd4d00b?h=307"
 title="Draw.io" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
+<img src="https://images.icon-icons.com/2397/PNG/96/microsoft_office_excel_logo_icon_145720.png"
 title="Excel (PowerQuery, Pivot)" width="40" height="40"/>&nbsp;
  
 ### Other tools:
