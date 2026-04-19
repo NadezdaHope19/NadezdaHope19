@@ -8,7 +8,6 @@
 </a>
 <a href="https://t.me/try_again19">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-</a>
 </div>
 
 ### About me:
@@ -22,21 +21,41 @@ participate in the implementation of software solutions to improve efficiency
 - Know about my experience .[CV].
 
 
-### Languages: 
+### Languages:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-title="posgres" width="40" height="40"/>&nbsp;
+title="MySql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
-title="posgres" width="40" height="40"/>&nbsp;
+title="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg"
-title="posgres" width="40" height="40"/>&nbsp;
+title="ClickHouse" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-title="posgres" width="40" height="40"/>&nbsp;
+title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
-title="posgres" width="40" height="40"/>&nbsp;
+title="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
-title="posgres" width="40" height="40"/>&nbsp;
-                                        
+title="Numpy" width="40" height="40"/>&nbsp;
+                                       
 ### Data Analysis & Visualization:
-Tableau, PowerBI, Yandex DataLens, PluntUML, Draw.io, Excel (PowerQuery, Pivot)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+title="Tableau" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+title="PowerBI" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg"
+title="Yandex DataLens" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+title="PluntUML" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+title="Draw.io" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
+title="Excel (PowerQuery, Pivot)" width="40" height="40"/>&nbsp;
+ 
 ### Other tools:
-GitHub, Figma, Jira, LaTeX
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+title="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+title="Figma" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+title="Jira" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
+title="LaTeX" width="40" height="40"/>&nbsp;
