@@ -27,8 +27,15 @@ participate in the implementation of software solutions to improve efficiency
 title="posgres" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
 title="posgres" width="40" height="40"/>&nbsp;
-
-SQL (MySQL, PostgreSQL, ClickHouse), Python (Pandas, NumPy)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg"
+title="posgres" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+title="posgres" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+title="posgres" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
+title="posgres" width="40" height="40"/>&nbsp;
+                                        
 ### Data Analysis & Visualization:
 Tableau, PowerBI, Yandex DataLens, PluntUML, Draw.io, Excel (PowerQuery, Pivot)
 ### Other tools:
