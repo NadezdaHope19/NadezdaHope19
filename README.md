@@ -8,14 +8,17 @@
 </a>
 <a href="https://t.me/try_again19">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-</a>  
+</a>
+<a href="https://t.me/try_again19">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+</a>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About me:
+
+- Analyst and manager with expertise in systems analysis and business process optimization
+- 19 years in a large state structure, of which 7 years - in a managerial position (deputy head of department, 90+
+subordinate employees who pay benefits to more than 300,000 people).
+- Remote experience work in EdTech and Yandex
+- I specialize in the intersection of IT and management: I identify bottlenecks, foraling requirements and
+participate in the implementation of software solutions to improve efficiency.
