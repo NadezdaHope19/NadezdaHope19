@@ -6,7 +6,7 @@
 <a href="linkedin-url">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="telegram-url">
+<a href="[telegram-url](https://t.me/try_again19)">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
 </a>  
 </div>
