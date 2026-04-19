@@ -22,6 +22,14 @@ participate in the implementation of software solutions to improve efficiency
 - Know about my experience .[CV].
 
 
-Languages: SQL (MySQL, PostgreSQL, ClickHouse), Python (Pandas, NumPy)
-Data Analysis & Visualization: Tableau, PowerBI, Yandex DataLens, PluntUML, Draw.io, Excel (PowerQuery, Pivot)
-Other tools: GitHub, Figma, Jira, LaTeX
+### Languages: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+title="posgres" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+title="posgres" width="40" height="40"/>&nbsp;
+
+SQL (MySQL, PostgreSQL, ClickHouse), Python (Pandas, NumPy)
+### Data Analysis & Visualization:
+Tableau, PowerBI, Yandex DataLens, PluntUML, Draw.io, Excel (PowerQuery, Pivot)
+### Other tools:
+GitHub, Figma, Jira, LaTeX
